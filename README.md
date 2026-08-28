@@ -1,4 +1,4 @@
-# 🏦 Sistema de Caixa Eletrônico (ATM) em Java
+#  Sistema de Caixa Eletrônico (ATM) em Java
 
 Uma aplicação em **Java** desenvolvida para simular as operações essenciais de uma conta bancária via terminal, focando na aplicação prática dos fundamentos de **Programação Orientada a Objetos (POO)** e **controle de fluxo**.
 
